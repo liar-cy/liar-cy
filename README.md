@@ -28,23 +28,7 @@ class LiarCy:
 - 💬 欢迎交流 Agent、LLM 应用与自动化相关话题
 
 
-## 📊 GitHub stats
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=liar-cy&show_icons=true&hide_border=true&theme=github_dark&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=liar-cy&show_icons=true&hide_border=true&theme=default&locale=cn" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=liar-cy&show_icons=true&hide_border=true&theme=default&locale=cn" alt="liar-cy's GitHub statistics" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liar-cy&layout=compact&hide_border=true&theme=github_dark&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liar-cy&layout=compact&hide_border=true&theme=default&locale=cn" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liar-cy&layout=compact&hide_border=true&theme=default&locale=cn" alt="liar-cy's most used languages" />
-  </picture>
-
-</div>
 
 ## 🤝 Connect
 
