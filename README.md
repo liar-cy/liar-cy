@@ -27,42 +27,6 @@ class LiarCy:
 - 🧩 长期目标：做出实用、可靠且易维护的 AI 应用
 - 💬 欢迎交流 Agent、LLM 应用与自动化相关话题
 
-## 🧭 Current roadmap
-
-| 方向 | 进度 |
-| --- | :---: |
-| Agent 基础与 LLM 集成 | ✅ |
-| 工具设计与 Function Calling | 🔄 |
-| RAG 与知识库 | 🔄 |
-| 多 Agent 协作 | ⏳ |
-| 评估、观测与生产部署 | ⏳ |
-
-> ✅ 已完成基础学习 · 🔄 正在实践 · ⏳ 后续探索
-
-## 🛠️ Tech stack
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,vscode&perline=6" alt="Python, JavaScript, TypeScript, Git, GitHub and VS Code" />
-
-  <br /><br />
-
-  <img src="https://img.shields.io/badge/LLM_Apps-FF6B6B?style=flat-square" alt="LLM Apps" />
-  <img src="https://img.shields.io/badge/AI_Agents-00B8D9?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/API_Design-22C55E?style=flat-square" alt="API Design" />
-
-</div>
-
-## 📚 Notes & projects
-
-这个仓库也记录了我的学习路径与实践计划：
-
-- [Agent 开发学习指南](./AGENT_LEARNING.md) — 基础概念、工具调用、Agent 架构与实践方向
-- [项目与练习](./PROJECTS.md) — 学习项目、工具脚本和后续计划
-- [Profile 维护指南](./PROFILE_GUIDE.md) — 主页结构与更新说明
-
-更多可以运行和复用的项目会随着学习进度逐步补充。
 
 ## 📊 GitHub stats
 
